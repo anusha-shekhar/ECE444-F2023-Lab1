@@ -8,3 +8,7 @@ Below is a screenshot proving that I have successfully installed Flask in a virt
 ## Activity 2
 Below is a screenshot of my 'hello' HTML page with my name on the web page.
 ![activity 2: hello Anusha](./images/lab1_activity2.png)
+
+## Activity 3
+Below is a screenshot showing that I have successfully finished the task of Activity 3.
+![activity 3: hello Anusha with a timestamp](./images/lab1_activity3.png)
