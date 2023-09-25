@@ -15,3 +15,7 @@ Below is a screenshot showing that I have successfully finished the task of Acti
 **NOTE:** you will see a number of "fix images" commits after the commits for Activity 3. These were done as I was running into issues with the images. I initially uploaded an incorrect picture for the Activity 3 image, but when I modified it and re-committed, the image was not updating on GitHub (attempted twice). Hence, I decided to rename all the images and re-commit and re-push, which fixed the error.
 
 ## Activity 4
+![activity 4a: hello Anusha with a timestamp](./images/activity4a.png)
+![activity 4b: hello Anusha with a timestamp](./images/activity4b.png)
+![activity 4c: hello Anusha with a timestamp](./images/activity4c.png)
+![activity 4d: hello Anusha with a timestamp](./images/activity4d.png)
